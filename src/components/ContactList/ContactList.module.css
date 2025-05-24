@@ -1,0 +1,13 @@
+.container {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.container > div {
+  margin-bottom: 20px;
+}
+
+.emptyMessage {
+  padding: 10px;
+}
